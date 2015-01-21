@@ -14,6 +14,9 @@ gem 'devise'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'nokogiri'
 gem 'aws-sdk'
+gem 'jquery-turbolinks'
+gem 'masonry-rails'
+
 
 group :development, :test do
   gem 'byebug'
